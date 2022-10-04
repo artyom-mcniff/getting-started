@@ -4,6 +4,8 @@ This tutorial has been written with the intent of helping folks get up and runni
 with containers and is designed to work with Docker Desktop. While not going too much 
 into depth, it covers the following topics:
 
+This is the part that Artyom McNiff has added in as part of the lab work
+
 - Running your first container
 - Building containers
 - Learning what containers are running and removing them
